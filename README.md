@@ -1,4 +1,4 @@
-# Scraping-Top-Movies-for-Genres-from-IMDB-Using-Python
+# Scraping-Movies-Data-from-IMDB-Using-Python
 • Overview:
 Web scraping involves extracting data from websites and structuring it into a usable format, such as a CSV file. In this project, we aim to automate the process of scraping the top movies for any given genre from IMDB, a popular movie database. By leveraging Python and libraries like BeautifulSoup and pandas, we can extract essential details such as movie name, IMDB URL, release year, duration, genre, rating, director, star cast, and number of votes.
 
